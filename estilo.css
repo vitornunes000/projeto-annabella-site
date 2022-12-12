@@ -1,0 +1,44 @@
+body {
+    background-image: url(fundo.png);
+    background-repeat: repeat;
+}
+#pricipal {
+    
+    width: 900px;
+
+}
+.menu {
+    border: 5px;
+    width: 865px;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    padding: 18px; /*espaçamento interno do bloco*/
+    background-color: #C5C5B2;
+    
+}
+a {
+    text-decoration: none;
+    color:#4b566a;
+    font-weight: bold;
+}
+.conteudo {
+    background-color: rgb(255, 255, 255);
+    padding: 17px;
+    width: 865px;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+h4 {
+    font-weight: bold;
+    color:gray;
+}
+.direitos {
+    text-align: center;
+    padding: 18px;
+    width: 865px;
+    font-weight: bold;
+}
+.img_campanhas {
+    border-width: 10px;
+    border-color: #c3c3ae;
+    border-style: solid;
+
+}
